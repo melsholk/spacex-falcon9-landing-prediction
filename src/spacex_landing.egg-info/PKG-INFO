@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: spacex-landing
+Version: 0.1.0
+Summary: End-to-end data science project: predict SpaceX Falcon 9 first-stage landing success.
+Author: Your Name
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # SpaceX Falcon 9 Landing Success Prediction
 
 An end-to-end data science project that predicts whether a **Falcon 9 first-stage**
